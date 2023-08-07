@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenido a Latamplix 🚀</h1>
 
 <p align="center">
-  <img src="https://your-logo-url" alt="Latamplix Logo" width="200" height="200">
+  <img src="[https://your-logo-url](https://files.fm/u/e7cbhnh48)" alt="Latamplix Logo" width="200" height="200">
 </p>
 
 <p align="center">
