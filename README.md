@@ -49,7 +49,7 @@ Este proyecto está licenciado bajo [MIT License](LICENSE).
 
 ## Contacto
 
-¿Tienes alguna pregunta o sugerencia? No dudes en contactarnos en [contact@latamplix.com](mailto:contact@latamplix.com) o a través de nuestras redes sociales.
+¿Tienes alguna pregunta o sugerencia? No dudes en contactarnos en [latamplix@gmail.com](latamplix@gmail.com) o a través de nuestras redes sociales.
 
 ¡Gracias por ser parte de Latamplix y contribuir al crecimiento del emprendimiento en América Latina! 🌎💫
 
