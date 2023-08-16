@@ -1,55 +1,69 @@
-<h1 align="center">Bienvenido a Latamplix 🚀</h1>
+<h1 align="center">Upler - Simplify Software License Management</h1>
 
 <p align="center">
-  <a href="https://freeimage.host/es"><img src="https://iili.io/Htwz5n2.jpg" alt="Htwz5n2.jpg" border="0"></a>
+ <a href='https://postimg.cc/wRghNfFp' target='_blank'><img src='https://i.postimg.cc/8crwqx6j/Upler-phrase-yds.png' border='0' alt='Upler-phrase-yds'/></a>
 </p>
 
 <p align="center">
-  <strong>¡Apoyando el talento y la innovación en América Latina!</strong>
+  <strong>Simplify and Automate Software License Management with Upler</strong>
 </p>
 
 <p align="center">
-  <a href="#about">Acerca de</a> •
-  <a href="#features">Características</a> •
-  <a href="#getting-started">Comenzar</a> •
-  <a href="#contributing">Contribuir</a> •
-  <a href="#license">Licencia</a> •
-  <a href="#contact">Contacto</a>
+  <a href="#problem">Problem</a> •
+  <a href="#solution">Solution</a> •
+  <a href="#features">Features</a> •
+  <a href="#team">Team</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#get-started">Get Started</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## Acerca de
+## Problem
 
-Latamplix es una plataforma de crowdfunding que tiene como objetivo impulsar el emprendimiento en América Latina. Nuestra misión es brindar el apoyo necesario para que startups de la región puedan materializar sus ideas innovadoras y convertirlas en proyectos exitosos.
+Managing multiple software licenses can be complex and time-consuming for individuals and businesses. Keeping track of expiration dates, compliance, and contracts is challenging and can lead to unintentional violations. There's a need for a centralized solution to automate and simplify license management, saving time, resources, and ensuring legal compliance.
 
-¡En Latamplix, creemos en la diversidad y la inclusión! Fomentamos proyectos de diversos sectores y orígenes para promover un ecosistema emprendedor vibrante y sólido en toda América Latina.
+## Solution
 
-## Características
+Upler is a web3 platform designed to streamline software license management. It provides a centralized hub for tracking, renewing, and maintaining all software licenses. With the acceptance of stablecoins as payment, Upler offers cost-effective pricing, instant transactions, enhanced security, and confidentiality. The platform also introduces the "UP" token, providing users with exclusive benefits to enhance loyalty.
 
-- **Conexión de Emprendedores y Donantes:** Facilitamos el encuentro entre emprendedores talentosos y donantes entusiastas que desean apoyar proyectos prometedores.
+## Features
 
-- **Colecciones Personalizadas de NFTs:** Ofrecemos a las startups la oportunidad de crear colecciones de NFTs exclusivas y proporcionar beneficios únicos a sus donantes.
+- Centralized Dashboard: Manage all software licenses from a single interface.
+- Renewal Automation: Receive alerts and reminders for upcoming license renewals.
+- Stablecoin Payments: Pay using stablecoins for better pricing and security.
+- "UP" Token Benefits: Gain exclusive benefits using the platform's native token.
+- Customizable Bundles: Tailor software packages to individual needs.
+- User Reviews and Ratings: Provide feedback and insights through reviews.
 
-- **Transparencia y Seguridad:** Garantizamos un entorno seguro y transparente para todas las transacciones y donaciones realizadas en la plataforma.
+## Team
 
-- **Crecimiento y Visibilidad:** Impulsamos el crecimiento y la visibilidad de las startups respaldadas en nuestra plataforma para que puedan alcanzar su máximo potencial.
+Meet our dedicated team members:
 
-## Comenzar
+- Agustín Marteau, Business Development
+- Joaquín Mármol, Full-Stack Engineer
+- David Juyneivch, Project Management
+- Mateo Lonzayes Perales, Backend Engineer
+- Ezequiel Costales, Product Leader
+- Serafin Quesada, Front-End Developer
 
-Visita nuestro sitio web en [www.latamplix.com](https://www.latamplix.com) para descubrir emocionantes proyectos y ser parte del cambio en América Latina.
+## Tech Stack
 
-## Contribuir
+Upler is built with:
 
-¡Nos encanta recibir contribuciones de la comunidad! Si eres desarrollador, diseñador o tienes habilidades para aportar al proyecto, ¡te damos la bienvenida a colaborar con nosotros! Sigue las pautas de contribución en [CONTRIBUTING.md](CONTRIBUTING.md) para comenzar.
+- **Next.js**: A React framework for server-side rendering and web apps.
+- **Tailwind CSS**: A utility-first CSS framework for responsive design.
+- **Wagmi**: Web3.js utility for Ethereum-based interactions.
+- **Rainbow Kit**: Next.js authentication library for Ethereum wallets.
+- **Truffle**: Ethereum blockchain development framework.
 
-## Licencia
+## Get Started
 
-Este proyecto está licenciado bajo [MIT License](LICENSE).
+Visit [uplersolutions.vercel.app/](https://uplersolutions.vercel.app/) to explore the platform, manage licenses, and streamline your software subscriptions.
 
-## Contacto
+## Contact
 
-¿Tienes alguna pregunta o sugerencia? No dudes en contactarnos en [latamplix@gmail.com](latamplix@gmail.com) o a través de nuestras redes sociales.
+Have questions or suggestions? Feel free to contact us at [contact@upler.com](mailto:contact@upler.com) or through our social media channels.
 
-¡Gracias por ser parte de Latamplix y contribuir al crecimiento del emprendimiento en América Latina! 🌎💫
-
+Thank you for being a part of Upler and revolutionizing software license management! 🚀💼
